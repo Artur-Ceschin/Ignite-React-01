@@ -10,7 +10,7 @@ This is the first React Challenge from the Rocketseat Ignite.
 In this project, i developed a todo list app with some of the basics of React
 Fell Free to clone this project
 
-![](todolist.gif)
+![gif dio projeto](./github/todolist.gif)
 
 ## 🖥 Setup
 - Clone the repository
